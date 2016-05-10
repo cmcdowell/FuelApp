@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fuel</string>
+    <string name="button_new_profile">Add Profile</string>
+    <string name="car_model">Car Model</string>
+    <string name="mpg">Miles per gallon</string>
+    <string name="button_photo">Take Photo</string>
+    <string name="button_save_profile">Save Profile</string>
+    <string name="button_new">+</string>
+</resources>
