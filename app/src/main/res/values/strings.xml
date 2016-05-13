@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gas Guzzler</string>
+    <string name="destination_hint">Enter your destination</string>
+    <string name="mpg_hint">Enter your car\'s mpg</string>
+    <string name="origin_hint">Enter your journey starting point</string>
+    <string name="calculate_button">Calculate Fuel Cost</string>
+    <string name="button_maps">View route on maps</string>
+    <string name="model_hint">Enter car model</string>
+    <string name="add_hint">Add profile</string>
+</resources>
